@@ -3,7 +3,11 @@
 <hr />
 
 **16.2.2022**
+
 - Integrovanie [Tailwind css](https://tailwindcss.com/) do projektu.
-- Pripojenie databázy do projektu. 
+- Pripojenie databázy do projektu.
 - Vytvorenie migrácii a modelov pre dané tabuľky.
 - Pridanie tried a žiakov do jednotlivých tabuliek.
+
+**17.2.2022**
+- Upravenie Routingu, pridaním nového Controlleru. 
