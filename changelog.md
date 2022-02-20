@@ -1,4 +1,4 @@
-### Jednoduchý projekt na skúšanie Laravel Relationships - One to Many
+### Jednoduchý projekt na skúšanie Laravel Relationships - [One to Many](https://laravel.com/docs/9.x/eloquent-relationships#one-to-many).
 
 <hr />
 
