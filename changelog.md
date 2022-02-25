@@ -14,7 +14,8 @@
 
 
 **20.2.2022**
-- Dokončenie mini projektu. 
 - Pridané posledné hodnoty do tabuľky s ľuďmi pre vyskúšanie funkcionality.
 - Naučené správne zapisovanie, aby sa jednotlivé tabuľky prepojily medzi sebou.  with()  
 - Naučené spravné vypísanie hodnôť z jednotlivých tabuliek. $class->class_name a následne aj $student->name a pod....
+
+### Mini projekt dokončený 
